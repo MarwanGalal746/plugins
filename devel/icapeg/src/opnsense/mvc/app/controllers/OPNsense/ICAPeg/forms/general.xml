@@ -1,5 +1,11 @@
 <form>
     <field>
+        <id>helloworld.general.Enabled</id>
+        <label>enabled</label>
+        <type>checkbox</type>
+        <help>Enable this feature</help>
+    </field>
+    <field>
         <id>icapeg.general.PortNum</id>
         <label>Port number</label>
         <type>text</type>

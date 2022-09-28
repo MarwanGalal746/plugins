@@ -6,6 +6,10 @@
     <items>
         <!-- container -->
         <general>
+            <Enabled type="BooleanField">
+                <default>1</default>
+                <Required>Y</Required>
+            </Enabled>
             <!-- fields -->
             <PortNum type="TextField">
                 <default>1344</default>
