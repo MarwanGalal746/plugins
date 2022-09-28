@@ -39,7 +39,7 @@ class VirustotalController extends \OPNsense\Base\VirustotalController
     public function VirustotalAction()
     {
         // pick the template to serve to our users.
-        $this->view->pick('OPNsense/ICAPeg/virustotal');
+        $this->view->pick('OPNsense/ICAPeg/index');
         // fetch form data "general" in
         $this->view->generalForm = $this->getForm("virustotal");
     }
