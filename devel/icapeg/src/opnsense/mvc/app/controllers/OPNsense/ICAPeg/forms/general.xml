@@ -6,34 +6,4 @@
         <help><![CDATA[default port of ICAPeg]]></help>
         <help>1344</help>
     </field>
-    <field>
-        <id>icapeg.general.LogLevel</id>
-        <label>Log Level</label>
-        <type>dropdown</type>
-        <help><![CDATA[level of logs ex: debug, info and error .. etc]]></help>
-    </field>
-    <field>
-        <id>icapeg.general.WritingLogsToConsole</id>
-        <label>Writing logs to console</label>
-        <type>checkbox</type>
-        <help>Disable this feature</help>
-    </field>
-    <field>
-        <id>icapeg.general.DebuggingHeaders</id>
-        <label>Debugging headers</label>
-        <type>checkbox</type>
-        <help>Enable this feature if you want to add debugging headers to ICAP response ex: X-ICAPeg-Shadow-Service</help>
-    </field>
-    <field>
-        <id>icapeg.general.WebServerHost</id>
-        <label>Web server host</label>
-        <type>text</type>
-        <help><![CDATA[the host of web server which reponse with html message]]></help>
-    </field>
-    <field>
-        <id>icapeg.general.WebServerEndpoint</id>
-        <label>Web server endpoint</label>
-        <type>text</type>
-        <help><![CDATA[the endpoint of web server which reponse with html message]]></help>
-    </field>
 </form>
