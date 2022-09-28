@@ -16,5 +16,11 @@
                 <Required>Y</Required>
             </PortNum>
         </general>
+        <virustotal>
+            <ApiKey type="TextField">
+                <default>1344</default>
+                <Required>Y</Required>
+            </ApiKey>
+        </virustotal>
     </items>
 </model>
