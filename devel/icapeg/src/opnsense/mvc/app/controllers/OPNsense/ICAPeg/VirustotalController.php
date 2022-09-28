@@ -31,10 +31,10 @@
 namespace OPNsense\ICAPeg;
 
 /**
- * Class IndexController
+ * Class VirustotalController
  * @package OPNsense\ICAPeg
  */
-class IndexController extends \OPNsense\Base\VirustotalController
+class VirustotalController extends \OPNsense\Base\VirustotalController
 {
     public function VirustotalAction()
     {
