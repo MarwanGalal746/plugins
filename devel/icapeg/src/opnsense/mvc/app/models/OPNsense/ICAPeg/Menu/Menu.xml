@@ -1,9 +1,6 @@
 <menu>
     <Services>
-        <ICAPeg VisibleName="ICAPeg" cssClass="fa fa-plug" />
-        <Settings order="10" url="/ui/icapeg">
-            <General url="/ui/icapeg#general-settings"/>
-        </Settings>
+        <ICAPeg VisibleName="ICAPeg" cssClass="fa fa-plug" url="/ui/icapeg"/>
         <Virustotal order="40" url="/ui/icapeg/virustotal"/>
     </Services>
 </menu>
