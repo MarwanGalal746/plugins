@@ -2,7 +2,7 @@
     <Services>
         <ICAPeg VisibleName="ICAPeg" cssClass="fa fa-plug" >
             <App order="40" url="/ui/icapeg"/>
-            <Virustotal order="40" url="/ui/icapeg"/>
+            <Virustotal order="40" url="/ui/icapeg/virustotal"/>
         </ICAPeg>
     </Services>
 </menu>
