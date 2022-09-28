@@ -36,7 +36,7 @@ namespace OPNsense\ICAPeg;
  */
 class VirustotalController extends \OPNsense\Base\VirustotalController
 {
-    public function VirustotalAction()
+    public function virustotalAction()
     {
         // pick the template to serve to our users.
         $this->view->pick('OPNsense/ICAPeg/index');
