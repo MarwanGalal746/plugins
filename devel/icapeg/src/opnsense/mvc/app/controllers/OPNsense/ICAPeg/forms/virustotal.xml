@@ -1,0 +1,9 @@
+<form>
+    <field>
+        <id>icapeg.virustotal.ApiKey</id>
+        <label>ApiKey</label>
+        <type>text</type>
+        <help><![CDATA[default port of ICAPeg]]></help>
+        <help>1344</help>
+    </field>
+</form>

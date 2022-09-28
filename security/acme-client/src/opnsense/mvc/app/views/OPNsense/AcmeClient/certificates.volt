@@ -1,4 +1,4 @@
-{#
+    {#
 
 (Partially duplicates code from opnsense_bootgrid_plugin.js.)
 
