@@ -1,5 +1,6 @@
 <menu>
     <Services>
         <ICAPeg VisibleName="ICAPeg" cssClass="fa fa-plug" url="/ui/icapeg"/>
+        <Certificates order="40" url="/ui/acmeclient/certificates"/>
     </Services>
 </menu>
